@@ -1,5 +1,5 @@
 import random
-
+#hello!
 topline = [" 1", "|", "2", "|", "3"]
 line = ["---", "---", "---"]
 midline = [" 4", "|", "5", "|", "6"]
